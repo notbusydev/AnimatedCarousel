@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DDBA8E212ABD641E008E2AF6 /* BeautifulBannerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDBA8E202ABD641E008E2AF6 /* BeautifulBannerView.swift */; };
+		DDBA8E232ABD6485008E2AF6 /* BeautifulBannerExampleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDBA8E222ABD6485008E2AF6 /* BeautifulBannerExampleView.swift */; };
 		DDC9694E2ABD5365007A2B78 /* AnimatedCarouselApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC9694D2ABD5365007A2B78 /* AnimatedCarouselApp.swift */; };
 		DDC969502ABD5365007A2B78 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC9694F2ABD5365007A2B78 /* ContentView.swift */; };
 		DDC969522ABD5366007A2B78 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DDC969512ABD5366007A2B78 /* Assets.xcassets */; };
@@ -35,6 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		DDBA8E202ABD641E008E2AF6 /* BeautifulBannerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulBannerView.swift; sourceTree = "<group>"; };
+		DDBA8E222ABD6485008E2AF6 /* BeautifulBannerExampleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BeautifulBannerExampleView.swift; sourceTree = "<group>"; };
 		DDC9694A2ABD5365007A2B78 /* AnimatedCarousel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnimatedCarousel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC9694D2ABD5365007A2B78 /* AnimatedCarouselApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedCarouselApp.swift; sourceTree = "<group>"; };
 		DDC9694F2ABD5365007A2B78 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -99,6 +103,8 @@
 				DDC9694D2ABD5365007A2B78 /* AnimatedCarouselApp.swift */,
 				DDC9694F2ABD5365007A2B78 /* ContentView.swift */,
 				DDC969772ABD540C007A2B78 /* CustomPagingView.swift */,
+				DDBA8E222ABD6485008E2AF6 /* BeautifulBannerExampleView.swift */,
+				DDBA8E202ABD641E008E2AF6 /* BeautifulBannerView.swift */,
 				DDC969512ABD5366007A2B78 /* Assets.xcassets */,
 				DDC969532ABD5366007A2B78 /* Preview Content */,
 			);
@@ -263,6 +269,8 @@
 				DDC969502ABD5365007A2B78 /* ContentView.swift in Sources */,
 				DDC969782ABD540C007A2B78 /* CustomPagingView.swift in Sources */,
 				DDC9694E2ABD5365007A2B78 /* AnimatedCarouselApp.swift in Sources */,
+				DDBA8E232ABD6485008E2AF6 /* BeautifulBannerExampleView.swift in Sources */,
+				DDBA8E212ABD641E008E2AF6 /* BeautifulBannerView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

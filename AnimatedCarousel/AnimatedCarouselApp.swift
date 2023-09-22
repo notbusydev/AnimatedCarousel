@@ -11,7 +11,7 @@ import SwiftUI
 struct AnimatedCarouselApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            BeautifulBannerExampleView()
         }
     }
 }
