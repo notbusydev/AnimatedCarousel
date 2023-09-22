@@ -14,6 +14,7 @@
 		DDC9695F2ABD5366007A2B78 /* AnimatedCarouselTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC9695E2ABD5366007A2B78 /* AnimatedCarouselTests.swift */; };
 		DDC969692ABD5366007A2B78 /* AnimatedCarouselUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC969682ABD5366007A2B78 /* AnimatedCarouselUITests.swift */; };
 		DDC9696B2ABD5366007A2B78 /* AnimatedCarouselUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC9696A2ABD5366007A2B78 /* AnimatedCarouselUITestsLaunchTests.swift */; };
+		DDC969782ABD540C007A2B78 /* CustomPagingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DDC969772ABD540C007A2B78 /* CustomPagingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		DDC969642ABD5366007A2B78 /* AnimatedCarouselUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimatedCarouselUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DDC969682ABD5366007A2B78 /* AnimatedCarouselUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedCarouselUITests.swift; sourceTree = "<group>"; };
 		DDC9696A2ABD5366007A2B78 /* AnimatedCarouselUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedCarouselUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		DDC969772ABD540C007A2B78 /* CustomPagingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomPagingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,6 +98,7 @@
 			children = (
 				DDC9694D2ABD5365007A2B78 /* AnimatedCarouselApp.swift */,
 				DDC9694F2ABD5365007A2B78 /* ContentView.swift */,
+				DDC969772ABD540C007A2B78 /* CustomPagingView.swift */,
 				DDC969512ABD5366007A2B78 /* Assets.xcassets */,
 				DDC969532ABD5366007A2B78 /* Preview Content */,
 			);
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				DDC969502ABD5365007A2B78 /* ContentView.swift in Sources */,
+				DDC969782ABD540C007A2B78 /* CustomPagingView.swift in Sources */,
 				DDC9694E2ABD5365007A2B78 /* AnimatedCarouselApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
